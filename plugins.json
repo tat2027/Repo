@@ -43,6 +43,31 @@
     "repositoryName": "AllForU"
   },
   {
+    "version": 2,
+    "internalName": "AllForU1",
+    "name": "AllForU1",
+    "pluginClassName": "com.allforu.AllForU1Plugin",
+    "status": 1,
+    "apiVersion": 1,
+    "language": "en",
+    "authors": [
+      "AllForU"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "AnimeMovie"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/AllForU1-v2.cs3",
+    "description": "AllForU1 - 50 embed/API endpoints, TMDB home & details, full settings (movies, series & anime)",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
+    "fileHash": "sha256-295984109f40626c9607d3f24a1661e56ffa784bd5cbbed1c549308a11c28ba8",
+    "fileSize": 135132,
+    "repositoryName": "AllForU"
+  },
+  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllMovieLandProvider.cs3",
     "status": 1,
     "version": 25,
@@ -2176,6 +2201,29 @@
     "repositoryName": "Phisher Repo"
   },
   {
+    "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
+    "status": 1,
+    "version": 88,
+    "name": "IndStream",
+    "internalName": "IndStream",
+    "authors": [
+      "Indflix"
+    ],
+    "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
+    "fileSize": 364450,
+    "repositoryUrl": "https://github.com/dipender98/Indflix",
+    "language": "hi",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ],
+    "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
+    "apiVersion": 1,
+    "fileHash": "sha256-6ed833b3797a6e8486cfa5a9996a1a6546de4dada065db105f2eab9d231f8578",
+    "repositoryName": "Indflix"
+  },
+  {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.cs3",
     "status": 1,
     "version": 9,
@@ -3126,30 +3174,29 @@
     "repositoryName": "Phisher Repo"
   },
   {
-    "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MultiMovies.cs3",
-    "status": 3,
-    "version": 30,
-    "name": "MultiMovies (Broken)",
-    "internalName": "MultiMovies",
+    "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/Multimovies.cs3",
+    "status": 1,
+    "version": 48,
+    "name": "Multimovies",
+    "internalName": "Multimovies",
     "authors": [
-      "Xtron"
+      "Indflix"
     ],
-    "description": "Indian Multi-language HD Provider",
-    "fileSize": 42158,
-    "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
+    "description": "CloudStream provider that scrapes Multimovies and pulls sources in parallel with a per-source timeout.",
+    "fileSize": 127352,
+    "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
     "tvTypes": [
       "Movie",
       "TvSeries",
-      "Anime"
+      "Anime",
+      "AnimeMovie",
+      "Cartoon"
     ],
-    "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MultiMoviesProvider.png",
+    "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-db77d28a30589b48736f68486680f930d9a1b7a07b2c5e0a0595a7af18f784b0",
-    "jarFileSize": 195551,
-    "jarUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MultiMovies.jar",
-    "jarHash": "sha256-4667e25843cd60bad6a103dc2d6cd6104f566dfe22f72a2e7ceaaba3ca169083",
-    "repositoryName": "Xtron Repo"
+    "fileHash": "sha256-5cc9c80a7668e954305ff0d0940b40e516b25cdf70393c226c6d62ac46144922",
+    "repositoryName": "Indflix"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MultiMoviesProvider.cs3",
@@ -3944,14 +3991,14 @@
   {
     "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/ReelFren.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "ReelFren",
     "internalName": "ReelFren",
     "authors": [
       "Faisal"
     ],
     "description": "ReelFren Provide Shorts Videos From Various Providers",
-    "fileSize": 45582,
+    "fileSize": 45564,
     "repositoryUrl": "https://github.com/Faisal0786/Desi",
     "language": "en",
     "tvTypes": [
@@ -3962,7 +4009,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/ReelFren.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2323f96b15ecce4f19bfc6b5ddec9daecded2a9b2fa9f98dda1a181a80c114f3",
+    "fileHash": "sha256-35adc7d628073df4a87c5c5e809e7e7010b08214fee290bbe7eadaeaad44a5b2",
     "repositoryName": "Desi Extensions"
   },
   {
@@ -4107,6 +4154,26 @@
     "apiVersion": 1,
     "fileHash": "sha256-36fb262275a2cb36d6b128bdc75ecd487a4f151a34176fd58b906d780d1aaacd",
     "repositoryName": "Raghav Repo"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/ShakzzVerse.png",
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 66295,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 63,
+    "internalName": "ShakzzVerse",
+    "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/ShakzzVerse.cs3",
+    "name": "ShakzzVerse",
+    "repositoryName": "Shakzz Repo | Multi-Language"
   },
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/ShowBox.cs3",
@@ -4934,6 +5001,26 @@
     "repositoryName": "CNC Repo (All Language)"
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/Viu.png",
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 50657,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 1,
+    "internalName": "Viu",
+    "description": "Viu Philippines: Asian dramas, movies and shows with English subtitles.",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/Viu.cs3",
+    "name": "Viu",
+    "repositoryName": "Shakzz Repo | Multi-Language"
+  },
+  {
     "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
     "fileHash": "sha256-1b628e071356dc2b1dbcf36deb4beb0681ef1d3089bf7e751a5a2a4aae1842cd",
     "apiVersion": 1,
@@ -5021,6 +5108,27 @@
     "apiVersion": 1,
     "fileHash": "sha256-922bff67165a6da8422891b673321a3ffcec320ef7c01255e6f352862c7b7154",
     "repositoryName": "Phisher Repo"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/main/icons/WitAnime.png",
+    "repositoryUrl": "https://github.com/Shakzz890/cloudstream-extensions-shakzz",
+    "fileSize": 39241,
+    "status": 1,
+    "language": "ar",
+    "authors": [
+      "Shakzz"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ],
+    "version": 1,
+    "internalName": "WitAnime",
+    "description": "Arabic subbed and dubbed anime from WitAnime.",
+    "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/builds/WitAnime.cs3",
+    "name": "WitAnime",
+    "repositoryName": "Shakzz Repo | Multi-Language"
   },
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Xanime.cs3",
