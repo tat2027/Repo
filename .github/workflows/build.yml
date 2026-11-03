@@ -1,1 +1,60 @@
+name: Auto Update CloudStream Master Repo
 
+on:
+  schedule:
+    # Runs Every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions web tab
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/**'
+
+# Critical: Allows GitHub Actions bot to commit and push updated JSON files
+permissions:
+  contents: write
+
+jobs:
+  sync-repositories:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📥 Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: ⚡ Run CloudStream Repo Merger
+        run: |
+          python3 scripts/merge_repos.py \
+            --repo-name "Unified CloudStream Master Repository" \
+            --repo-desc "Auto-merged master repository with 200+ extensions" \
+            --output-dir .
+
+      - name: 📊 Check for changes
+        id: git-diff
+        run: |
+          git status --porcelain
+          if [ -n "$(git status --porcelain repo.json plugins.json master.json)" ]; then
+            echo "changes_detected=true" >> "$GITHUB_OUTPUT"
+            echo "Changes found in generated JSON files."
+          else
+            echo "changes_detected=false" >> "$GITHUB_OUTPUT"
+            echo "No changes detected. Repository is already up to date."
+          fi
+
+      - name: 🚀 Commit and Push Updated Master JSON
+        if: steps.git-diff.outputs.changes_detected == 'true'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          git add repo.json plugins.json master.json
+          git commit -m "chore: auto-update CloudStream extensions [skip ci]"
+          git push origin HEAD:${{ github.ref_name }}
