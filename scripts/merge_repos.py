@@ -63,6 +63,14 @@ DEFAULT_REPOSITORIES = [
     {
         "name": "Eclipsia",
         "url": "https://cs.eclipsia.dpdns.org/repo.json"
+    },
+    {
+        "name": "Indflix",
+        "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/repo.json"
+    },
+    {
+        "name": "Shakzz Repo | Multi-Language",
+        "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/refs/heads/builds/repo.json"
     }
 ]
 
