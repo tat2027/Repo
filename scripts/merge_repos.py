@@ -371,7 +371,7 @@ def main():
 
     print("\n🎉 CloudStream Master Repository successfully generated!")
     print(f"   Total Unique Plugins: {len(plugins_list)}")
-    print(f"   Add to CloudStream: {raw_base_url + '/repo.json' if raw_base_url else 'https://raw.githubusercontent.com/<YOUR_USER>/<YOUR_REPO>/main/repo.json'}")
+    print(f"   Add to CloudStream: {raw_base_url + '/repo.json' if raw_base_url else 'https://raw.githubusercontent.com/tat2027/Repo/refs/heads/main/repo.json'}")
 
 if __name__ == "__main__":
     main()
