@@ -135,7 +135,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AniChan.cs3",
     "status": 1,
-    "version": 17,
+    "version": 18,
     "name": "AniChan",
     "internalName": "AniChan",
     "authors": [
@@ -151,7 +151,7 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/YxgDK6JP2h08FlpZs__vP2otL3HKp3IXfvb9jVUt0HgWy1V9xcWbIdkH8_o9Z6QQYnRVYPatjcPTcOIpeWtI",
     "apiVersion": 1,
-    "fileHash": "sha256-07fe48b13a8c3150e6fec95311cef1109a5a6cf6d969864fc9b88a77166869b4",
+    "fileHash": "sha256-2ab2fac8c64abe91ed58758b74b45d19f68b6df00f874b1e436d0c427dd367c8",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -180,7 +180,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Anidap.cs3",
     "status": 1,
-    "version": 20,
+    "version": 21,
     "name": "Anidap",
     "internalName": "Anidap",
     "authors": [
@@ -197,7 +197,7 @@
     ],
     "iconUrl": "https://anidap.lol/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2afca234ee01333b8c6e2992ea6cd3b169304d4da3b14d6db0fb5eefe6f54b7f",
+    "fileHash": "sha256-bdff27216b77da1690921a6f8109ec047a7c597649ebed3724b750283dbe8cfa",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -247,7 +247,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AniKotoAnime.cs3",
     "status": 1,
-    "version": 20,
+    "version": 21,
     "name": "AniKotoAnime",
     "internalName": "AniKotoAnime",
     "authors": [
@@ -264,7 +264,7 @@
     ],
     "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c839462370351931de47360fc63f0a00678288177966515f3774ee922cac6401",
+    "fileHash": "sha256-068ce2b5a83b559b1849341e33a01a4aa3db5fec3f3a1791fd71c6d6ba7e1934",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -429,7 +429,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AnimeInWeb.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "AnimeInWeb",
     "internalName": "AnimeInWeb",
     "authors": [
@@ -447,7 +447,7 @@
     ],
     "iconUrl": "https://animeinweb.com/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-e3d5d994c582e090c033fdbd3862306f4aaafc0ae3017575a05d498a23cf6179",
+    "fileHash": "sha256-3cd55f846618a961c93e19cd603f07ae3ca6321ed4895f58dde958360dbbecf6",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -612,7 +612,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AnimeTH.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "AnimeTH",
     "internalName": "AnimeTH",
     "authors": [
@@ -628,7 +628,7 @@
     ],
     "iconUrl": "https://anime-th.com/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-ef7088e402737ca31b7257ef77e829f415a118500b9b43adfe97e5b72a54d030",
+    "fileHash": "sha256-b694c9aa0314e857b40ba16ac0585ab1c604cfaf034595b2dfa3cbd86c5d28d1",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -680,14 +680,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AnimeWorldIndia.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "AnimeWorldIndia",
     "internalName": "AnimeWorldIndia",
     "authors": [
       "raghav"
     ],
     "description": "Anime World India - Hindi, Tamil, Telugu Anime & Cartoons with multi-audio",
-    "fileSize": 67986,
+    "fileSize": 67987,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "hi",
     "tvTypes": [
@@ -697,7 +697,7 @@
     ],
     "iconUrl": "https://watchanimeworld.top/wp-content/uploads/AW_Smiley.png",
     "apiVersion": 1,
-    "fileHash": "sha256-6b54d3d51f6e15437aeb2d0b971df0c094c7cf40b7a4171e22aed8f0e6e106dd",
+    "fileHash": "sha256-3c48b190e02f7584b7815140db9b610b6992e7440069fcc2d16d07d772c4f0d3",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -726,7 +726,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AniPM.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "AniPM",
     "internalName": "AniPM",
     "authors": [
@@ -743,7 +743,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=ani.pm&sz=64",
     "apiVersion": 1,
-    "fileHash": "sha256-967439edb9f0cc7eccc8eb9c80c22b7c4ed6f18af4b0f45471b28169dbf97c96",
+    "fileHash": "sha256-948fc41fbedc2a47aab7074c137afe74c00cdd5863b4f814fe5bd825be6c4f2c",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -794,7 +794,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AniSuge.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "AniSuge",
     "internalName": "AniSuge",
     "authors": [
@@ -811,7 +811,7 @@
     ],
     "iconUrl": "https://animesuge.cz/animesuge/images/logo.png",
     "apiVersion": 1,
-    "fileHash": "sha256-854e57e644cd03dbbe09d1fcbd8858f27f98a2db0d52c5c9dbb39192e7cce051",
+    "fileHash": "sha256-62983888354e6eb0df775807727be904fd4e993e346a88b0de30ff3bd7bb91b4",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -842,7 +842,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AniWaves.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "AniWaves",
     "internalName": "AniWaves",
     "authors": [
@@ -859,7 +859,7 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/F3jWPSrcSNIACoBThPkbgzWu0ejHPmlCNUTNnfOkDfTTzW027WhzhfmWaT18bYwTT9vM-gGs7bRuU8z6rqqudA",
     "apiVersion": 1,
-    "fileHash": "sha256-1910565b834c698246d0e955e63c8d6f01a717ee3d86c389ddf58f0c3ef1ea7a",
+    "fileHash": "sha256-4ccc9546f47df1e22eee664f1c0fcb70e5d44840f4b19d80a59a619dd885de5f",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -909,7 +909,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Anv.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Anv",
     "internalName": "Anv",
     "authors": [
@@ -926,20 +926,20 @@
     ],
     "iconUrl": "https://anv.to/brand/icon-512.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b60accc5a0b2820e53c85d8888770a182be0074b360e67060be59b3ceb2de0cd",
+    "fileHash": "sha256-58cc72a53b3e5315af71aad07442eef11f8998e3315b9b8ed30ad22f9de65d22",
     "repositoryName": "Raghav Repo"
   },
   {
     "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/AryaVidya.cs3",
     "status": 1,
-    "version": 12,
+    "version": 16,
     "name": "AryaVidya",
     "internalName": "AryaVidya",
     "authors": [
       "decodede"
     ],
     "description": "Free PW batches, lectures, OTT videos.",
-    "fileSize": 55340,
+    "fileSize": 59648,
     "repositoryUrl": "https://github.com/Faisal0786/Desi",
     "language": "en",
     "tvTypes": [
@@ -947,7 +947,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/decodede/cs-repo/main/icons/AryaVidya.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c73b77ffbcfbf6d855efb8a017fc01790eaea7925bff48c77e56366339ce01d6",
+    "fileHash": "sha256-dc18270bf9919e37a2cdd08d313c433a7f54382f4523c0f9a37e6e68756319ae",
     "repositoryName": "Desi Extensions"
   },
   {
@@ -1467,7 +1467,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/DamiTVProvider.cs3",
     "status": 1,
-    "version": 28,
+    "version": 29,
     "name": "DamiTVProvider",
     "internalName": "DamiTVProvider",
     "authors": [
@@ -1482,7 +1482,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvvc01IqbjrBZ-AhXwvyrIblnaJBA04IUNKmJNRbqEh46fWVItaGuoRsj&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-ba9fe8f2fb6e1bac1b37e3780bfd0d0ec1c4238e12d796f373f6eb26951c28b9",
+    "fileHash": "sha256-6c2d153a4cee6a4ebd399b1eb5d7c9859b621ccab7ad27017e93134013140df4",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -1752,14 +1752,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/EliteStreams.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "EliteStreams",
     "internalName": "EliteStreams",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Live sports and TV channels from JioTV+, Jio Hotstar, Sony LIV and FanCode",
-    "fileSize": 58809,
+    "fileSize": 58811,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "hi",
     "tvTypes": [
@@ -1767,7 +1767,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjVrQOYj-sTUXwbXmmIso7vR3mqtH_sxhXF69vtY5FXAK4M4iCaeLoatA&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-4067831d4d188a409148e0141d58736dcbae918327ee0e2e5a1b32a179b103a0",
+    "fileHash": "sha256-6641f6dd38f6055608d1938d0464cbc8662dcfdb1790d5a30fd5048cdfc1700a",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -1927,14 +1927,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/GoTaku.cs3",
     "status": 1,
-    "version": 11,
+    "version": 13,
     "name": "GoTaku",
     "internalName": "GoTaku",
     "authors": [
       "raghav"
     ],
     "description": "Hardsub and dub from Gotaku",
-    "fileSize": 71499,
+    "fileSize": 71498,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -1944,7 +1944,7 @@
     ],
     "iconUrl": "https://gotaku.to/images/icons/logo-white.png?v21",
     "apiVersion": 1,
-    "fileHash": "sha256-b301636038cea7984f52a30a0b984d11e765c4d72b3e3be65a211e7cf82d6e6c",
+    "fileHash": "sha256-2419cda253908120ba99ef1bd329f2ba0b1fd4d7ae33b3d03bcd03b5f5372b9c",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2083,7 +2083,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/HiCine.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "HiCine",
     "internalName": "HiCine",
     "authors": [
@@ -2101,7 +2101,7 @@
     ],
     "iconUrl": "https://png.pngtree.com/element_our/png/20181227/movie-icon-which-is-designed-for-all-application-purpose-new-png_287896.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-93a03f89e532391e112bd33836525a31d7ea73d5c7973180692a5b17845a4ed9",
+    "fileHash": "sha256-23a6144db02b5476419bb99e460b556db36fe6fab3ce7485ed1df8cd29cefa70",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2318,7 +2318,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/JustPlay.cs3",
     "status": 1,
-    "version": 30,
+    "version": 31,
     "name": "JustPlay",
     "internalName": "JustPlay",
     "authors": [
@@ -2334,7 +2334,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknDTJSN2AhrHzfxF75gr9-qG4x-JzwHRnvPDjZP2aa-93KRaXPF1_ZQdm&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-9c77c94f3dfbc012a1b5d810e8bafca69dab2bdb65925c434e556ffd66266e5d",
+    "fileHash": "sha256-7a99f7cf4e5002ffe912b4475f0144c6ab8a6460f5dec7a6c7008bf43aa0e931",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2363,7 +2363,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Kdesa.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Kdesa",
     "internalName": "Kdesa",
     "authors": [
@@ -2380,7 +2380,7 @@
     ],
     "iconUrl": "https://kdesa.stream/android-chrome-192x192.png?v=6",
     "apiVersion": 1,
-    "fileHash": "sha256-86162dffe4d63d6918068e26ede4a9fcfc666061237cdfbc82abd175f45b7c0a",
+    "fileHash": "sha256-215b1c964671f3e37b6ace7ae71dd9e1e165f57cc176eba32acd656ef76241b2",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2612,7 +2612,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/LiveTgTv.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "LiveTgTv",
     "internalName": "LiveTgTv",
     "authors": [
@@ -2627,13 +2627,13 @@
     ],
     "iconUrl": "https://img.magnific.com/free-vector/live-webcast-broadcasting-symbol-online-events_1017-62406.jpg?semt=ais_hybrid&w=740&q=80",
     "apiVersion": 1,
-    "fileHash": "sha256-ebf5fada979d395019b5e0057d0991dc0d6b81d98ccf1b6de2de856996e82974",
+    "fileHash": "sha256-2bd954e35198fa916cb8b96cee5536ba17384ffb47fa2f8db57029d5ae76e380",
     "repositoryName": "Raghav Repo"
   },
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/LIVETVProvider.cs3",
     "status": 1,
-    "version": 43,
+    "version": 44,
     "name": "LIVETVProvider",
     "internalName": "LIVETVProvider",
     "authors": [
@@ -2648,7 +2648,7 @@
     ],
     "iconUrl": "https://png.pngtree.com/png-vector/20191026/ourmid/pngtree-live-icon-design-template-vector-isolated-illustration-png-image_1874482.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-e21debd8836c0f326feaf5398597c2c96004d15003d01eaa9fa5110b6cd91eef",
+    "fileHash": "sha256-8a45e9df95fc0305d1eabf09e20a4a67cd5b3d493aade4bdc018a50c81f83482",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -3080,7 +3080,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Movy.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "Movy",
     "internalName": "Movy",
     "authors": [
@@ -3098,7 +3098,7 @@
     ],
     "iconUrl": "https://www.movy.sx/icon-192x192.png",
     "apiVersion": 1,
-    "fileHash": "sha256-de0c7177e5e2c056f2ab9bf3b5eb3b4a0693710f5d9159816ea8d63414a412f1",
+    "fileHash": "sha256-f42f61e4172ac116e35065c8f9fba76d3cc0e70cd97f954b00c36818ebc29761",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -3197,7 +3197,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Nepu.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "Nepu",
     "internalName": "Nepu",
     "authors": [
@@ -3216,7 +3216,7 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/RVADHx9LB0v5T0icvbhDrnVN32jrNMGG6MpDKWnHK6uPIQESx0yIIbQNQBCj_GcX42HqnQ6Bf1sfkTKDMSrnQQ=w240-h480-rw",
     "apiVersion": 1,
-    "fileHash": "sha256-3efd04f68456efba350d552d3109e714c09c52736545659e94a60bfd7cb18177",
+    "fileHash": "sha256-0f79cf3f5406f4783faab0aaa47b195eb5e39908034e6bf66e17efc717346ccf",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -3290,7 +3290,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/NetNaija.cs3",
     "status": 1,
-    "version": 21,
+    "version": 22,
     "name": "NetNaija",
     "internalName": "NetNaija",
     "authors": [
@@ -3309,13 +3309,13 @@
     ],
     "iconUrl": "https://netnaija.film/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-639372efb502c77260a7aef1e87263f783077541f608b659583831408a475990",
+    "fileHash": "sha256-544d438715d18a63261f07c3d29179e700e8be5b3d5a8bc4222cdc9293d26939",
     "repositoryName": "Raghav Repo"
   },
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/NetNaija-box.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "NetNaija-box",
     "internalName": "NetNaija-box",
     "authors": [
@@ -3332,7 +3332,7 @@
     ],
     "iconUrl": "https://netnaija.film/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-0487e9614ff99b63406130de6d3d1ab4fce15751c8a1e1d2ba4cb55ccfeb6507",
+    "fileHash": "sha256-9bf3f3aeb9f644f06facb6c602d15f255b10efe0851b698e440e7743b1aa683b",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -3361,7 +3361,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/NineAnime.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "NineAnime",
     "internalName": "NineAnime",
     "authors": [
@@ -3378,7 +3378,7 @@
     ],
     "iconUrl": "https://cachedimages.podchaser.com/256x256/aHR0cHM6Ly9pLmF1ZGlvbWFjay5jb20vOWFuaW1lcy8zODE4MDE3MGZmLndlYnA%2FbWluPXRydWUmaGVpZ2h0PTE0MDAmd2lkdGg9MTQwMA%3D%3D/aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc%3D",
     "apiVersion": 1,
-    "fileHash": "sha256-c7673f54b57c1f58d2bd5c16135073d80cbff1087761bce01c71e2cc9bdc9a44",
+    "fileHash": "sha256-10ce19acaf0070869fb14682468c0f5e181b817d6ae4db4bce3761eb5643ccc1",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -3870,14 +3870,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/RaghavAnime.cs3",
     "status": 1,
-    "version": 94,
+    "version": 96,
     "name": "RaghavAnime",
     "internalName": "RaghavAnime",
     "authors": [
       "raghav"
     ],
     "description": "ONE STOP SOLUTION FOR ANIME(SUB,DUB) - Raghav Aggregated Anime Pluginn )",
-    "fileSize": 674192,
+    "fileSize": 674210,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -3887,20 +3887,20 @@
     ],
     "iconUrl": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-Images.png",
     "apiVersion": 1,
-    "fileHash": "sha256-b733c6b883f057bce38e1f82d4e64f6923813117b1a857d08196445dc9187287",
+    "fileHash": "sha256-89b7f6dba39e5df32b73c24db4a6b74bd180259f7752ab9f94f0af64ea79b754",
     "repositoryName": "Raghav Repo"
   },
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/RaghavAnimeKitsu.cs3",
     "status": 1,
-    "version": 45,
+    "version": 47,
     "name": "RaghavAnimeKitsu",
     "internalName": "RaghavAnimeKitsu",
     "authors": [
       "raghav"
     ],
     "description": "ONE STOP SOLUTION FOR ANIME(SUB,DUB) - Kitsu Catalog",
-    "fileSize": 661800,
+    "fileSize": 661785,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -3910,13 +3910,13 @@
     ],
     "iconUrl": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-Images.png",
     "apiVersion": 1,
-    "fileHash": "sha256-338eb456945936363eed614f332600fefd6a20f398f8c4c5fb2ad496a75c7a04",
+    "fileHash": "sha256-bb021f95507ee2e3877b1f3f2991a68ec4838b5e0311b924b49b263432ec161e",
     "repositoryName": "Raghav Repo"
   },
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/RareAnimesIndia.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "RareAnimesIndia",
     "internalName": "RareAnimesIndia",
     "authors": [
@@ -3934,7 +3934,7 @@
     ],
     "iconUrl": "https://www.rareanimes.mov/wp-content/uploads/2023/11/cropped-Rare-Animes-India.png",
     "apiVersion": 1,
-    "fileHash": "sha256-39d0b5b3bcbe025d81ab719773a8c05c77f75d1023b3afc2f5fa57658c6e9cf2",
+    "fileHash": "sha256-0d3fbe06885965b2a14cdd1702caa70565f79dbfebb2d7b14139390fc816b30e",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -4007,30 +4007,6 @@
     "apiVersion": 1,
     "fileHash": "sha256-60e2ff9b920dcd10cd97d388baf61819cd96902cb060370764f46bfb025659a0",
     "repositoryName": "Phisher Repo"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RogMovies.cs3",
-    "status": 1,
-    "version": 18,
-    "name": "RogMovies",
-    "internalName": "RogMovies",
-    "authors": [
-      "Xtron"
-    ],
-    "description": "Your ultimate destination for high-quality entertainment, movies, and web series.",
-    "fileSize": 49184,
-    "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
-    "language": "hi",
-    "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "AsianDrama",
-      "Anime"
-    ],
-    "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/RogMovies.png",
-    "apiVersion": 1,
-    "fileHash": "sha256-e3b10c5e5e3933e6687e1b4a122dcff2ce9ef45bcdd2bdda5316c1a132454663",
-    "repositoryName": "Xtron Repo"
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/Rtally/icon.png",
@@ -4108,7 +4084,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Senshi.cs3",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "Senshi",
     "internalName": "Senshi",
     "authors": [
@@ -4125,7 +4101,7 @@
     ],
     "iconUrl": "https://senshi.to/assets/Senshi_Logo-D4bDbCzd.png",
     "apiVersion": 1,
-    "fileHash": "sha256-78f0c8e0374608872790dfa3ca79e6da03a09dfbc11ca09035ba1af12a8adb23",
+    "fileHash": "sha256-f21d2fed4095c0d70d3f3e647a466f98ee3c148f55e5b6bf43a78f7bc44ce8c2",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -4560,7 +4536,7 @@
     "repositoryName": "Desi Extensions"
   },
   {
-    "version": 6,
+    "version": 7,
     "internalName": "TamilTvToons",
     "name": "TamilTvToons",
     "pluginClassName": "com.allforu.TamilTvToonsPlugin",
@@ -4577,11 +4553,11 @@
       "AnimeMovie"
     ],
     "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/TamilTvToons-v6.cs3",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/TamilTvToons-v7.cs3",
     "description": "TamilTvToons - Tamil & multi-audio dubbed movies, series & cartoons (Tamil, Hindi, Telugu, Malayalam)",
     "iconUrl": "https://v1.tamiltvtoons.sbs/wp-content/uploads/2025/10/cropped-photo_2025-05-20_17-44-49-192x192.jpg",
-    "fileHash": "sha256-3317676fab4a58f94bb66244767a4aa08f59d85883e62787a4e9274cd5da921a",
-    "fileSize": 45819,
+    "fileHash": "sha256-2c6f05002549cc701edabf198d5e1cf7679df81b4e4e6343c6f6065904f59ab2",
+    "fileSize": 45824,
     "repositoryName": "AllForU"
   },
   {
@@ -4631,7 +4607,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/TheMoviesFlix.cs3",
     "status": 1,
-    "version": 25,
+    "version": 26,
     "name": "TheMoviesFlix",
     "internalName": "TheMoviesFlix",
     "authors": [
@@ -4647,7 +4623,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_C9WX4AwepepLyw_cF-EIJeRpqgI4wDiquYSoP9xDFFAKFtTVM-P_zo&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-91f111196cff3a173861e05f9937aedaf921fbccb5b7db256c31ebd4f0c4fe64",
+    "fileHash": "sha256-07ba9d520134179ee7c654ea9626cba560e6d496fb5c59083e92096dbdfa3c0a",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -4676,14 +4652,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Toonix.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "Toonix",
     "internalName": "Toonix",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "cartoons and anime in hindi, english and japanese sub",
-    "fileSize": 91644,
+    "fileSize": 91643,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "hi",
     "tvTypes": [
@@ -4694,7 +4670,7 @@
     ],
     "iconUrl": "https://toonix.bond/icon.png?df3a3feb46702fd9",
     "apiVersion": 1,
-    "fileHash": "sha256-8028f5ca8777a6e2b2980f86626261f1b3ce9616e63495a5581f820960c2e62a",
+    "fileHash": "sha256-ab0ae2261f88c995d52c48122fbf525c98b90d25a8a375eef70ce28df41dd2e6",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -4814,7 +4790,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/TorrentsV1.cs3",
     "status": 1,
-    "version": 26,
+    "version": 27,
     "name": "TorrentsV1",
     "internalName": "TorrentsV1",
     "authors": [
@@ -4834,13 +4810,13 @@
     ],
     "iconUrl": "https://png.pngtree.com/element_our/png/20181227/movie-icon-which-is-designed-for-all-application-purpose-new-png_287896.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-c96a4b94dd0fde05e18c26fdab1a9949eaf648ef2f6d61cd7b44982da95572c8",
+    "fileHash": "sha256-bd88183ba7f3381ac2b5d94eed2ba081aa8ec666f44b82e6f445db4553152a21",
     "repositoryName": "Raghav Repo"
   },
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/TwoDHive.cs3",
     "status": 1,
-    "version": 20,
+    "version": 21,
     "name": "TwoDHive",
     "internalName": "TwoDHive",
     "authors": [
@@ -4857,7 +4833,7 @@
     ],
     "iconUrl": "https://wallpapers.com/images/hd/anime-symbols-full-metal-alchemist-homunculi-black-and-red-59twpz44gslsiv1o.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-066728a23d87eda71c6c64d2696b76d7e78c9ef6f18421a7df0967bf4bec7d62",
+    "fileHash": "sha256-7df4c2f45a58ee776e8c8ec0315f7bcc42c4389bf26203edffa230e390f719e9",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -5085,7 +5061,7 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Xanime.cs3",
     "status": 1,
-    "version": 4,
+    "version": 5,
     "name": "Xanime",
     "internalName": "Xanime",
     "authors": [
@@ -5102,7 +5078,7 @@
     ],
     "iconUrl": "https://www.google.com/s2/favicons?domain=xanime.me&sz=%size%",
     "apiVersion": 1,
-    "fileHash": "sha256-57b3d629b7fbeaad09c0138185bf3c5498835ca3dc8ed96526fb2f629f1408ae",
+    "fileHash": "sha256-be3a8b8b0c48a255e8cfe5e3b1e4672739542a536a61573d0d59abedeba2bd6f",
     "repositoryName": "Raghav Repo"
   },
   {
