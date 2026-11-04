@@ -69,7 +69,7 @@ DEFAULT_REPOSITORIES = [
         "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/repo.json"
     },
     {
-        "name": "Shakzz Repo | Multi-Language",
+        "name": "Shakzz Repo",
         "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/refs/heads/builds/repo.json"
     },
     {
