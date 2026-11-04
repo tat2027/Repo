@@ -71,6 +71,10 @@ DEFAULT_REPOSITORIES = [
     {
         "name": "Shakzz Repo | Multi-Language",
         "url": "https://raw.githubusercontent.com/Shakzz890/cloudstream-extensions-shakzz/refs/heads/builds/repo.json"
+    },
+    {
+        "name": "Repo Star",
+        "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/refs/heads/builds/repo.json"
     }
 ]
 
