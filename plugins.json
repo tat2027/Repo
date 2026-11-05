@@ -1110,10 +1110,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CastleTvProvider/icon.png",
-    "fileHash": "sha256-fc1308cc9ad0a53b021e757338435c507800ef846b5662d072e6e81766be6db0",
+    "fileHash": "sha256-205d9af18856f3732790452fe5d3f60c10c4a35175a076d5e604406bc663f183",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 87957,
+    "fileSize": 88297,
     "status": 1,
     "language": "ta",
     "authors": [
@@ -1123,9 +1123,9 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 41,
+    "version": 47,
     "internalName": "CastleTvProvider",
-    "description": "Castle TV Movies and Series Provider",
+    "description": "Castle TV Movies and Series Provider (Play in VLC or MPV for multi-audio support)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CastleTvProvider.cs3",
     "name": "CastleTvProvider",
     "repositoryName": "CNC Repo (All Language)"
@@ -2318,14 +2318,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/JustPlay.cs3",
     "status": 1,
-    "version": 31,
+    "version": 32,
     "name": "JustPlay",
     "internalName": "JustPlay",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Movies, series and live sports from multiple sources with a Manage Sources screen that filters download and stream links",
-    "fileSize": 545088,
+    "fileSize": 547665,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -2334,7 +2334,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknDTJSN2AhrHzfxF75gr9-qG4x-JzwHRnvPDjZP2aa-93KRaXPF1_ZQdm&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-7a99f7cf4e5002ffe912b4475f0144c6ab8a6460f5dec7a6c7008bf43aa0e931",
+    "fileHash": "sha256-f86a5c5c11e44f1a067ff6bf59f3deaf755b25edb5f56ffb51d92fba1463a04e",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -4290,7 +4290,7 @@
       "Faisal"
     ],
     "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-    "fileSize": 1298908,
+    "fileSize": 1346287,
     "repositoryUrl": "https://github.com/Faisal0786/Desi",
     "language": "hi",
     "tvTypes": [
@@ -4302,7 +4302,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
     "apiVersion": 1,
-    "fileHash": "sha256-099378262df857e80cbb0cd40c5db7f52381b0a962261f428c1f8d07fbc8bb6a",
+    "fileHash": "sha256-905f3b2a7ff3f78f23268d62c8d557b2b2c85e74ee56f2249b57a724f6f4edb6",
     "repositoryName": "Desi Extensions"
   },
   {
