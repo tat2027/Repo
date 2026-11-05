@@ -4291,14 +4291,14 @@
     {
       "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
       "status": 1,
-      "version": 79,
+      "version": 81,
       "name": "StreamHubOne",
       "internalName": "StreamHubOne",
       "authors": [
         "Faisal"
       ],
       "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-      "fileSize": 1298945,
+      "fileSize": 1298908,
       "repositoryUrl": "https://github.com/Faisal0786/Desi",
       "language": "hi",
       "tvTypes": [
@@ -4310,7 +4310,7 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
       "apiVersion": 1,
-      "fileHash": "sha256-5bf38fa7b01bb414831c4c1011285ff30ac7d1171a88f9ceb4f816b3692b5cf6",
+      "fileHash": "sha256-099378262df857e80cbb0cd40c5db7f52381b0a962261f428c1f8d07fbc8bb6a",
       "repositoryName": "Desi Extensions"
     },
     {
@@ -4544,7 +4544,7 @@
       "repositoryName": "Desi Extensions"
     },
     {
-      "version": 7,
+      "version": 8,
       "internalName": "TamilTvToons",
       "name": "TamilTvToons",
       "pluginClassName": "com.allforu.TamilTvToonsPlugin",
@@ -4561,11 +4561,11 @@
         "AnimeMovie"
       ],
       "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
-      "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/TamilTvToons-v7.cs3",
+      "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/TamilTvToons-v8.cs3",
       "description": "TamilTvToons - Tamil & multi-audio dubbed movies, series & cartoons (Tamil, Hindi, Telugu, Malayalam)",
       "iconUrl": "https://v1.tamiltvtoons.sbs/wp-content/uploads/2025/10/cropped-photo_2025-05-20_17-44-49-192x192.jpg",
-      "fileHash": "sha256-2c6f05002549cc701edabf198d5e1cf7679df81b4e4e6343c6f6065904f59ab2",
-      "fileSize": 45824,
+      "fileHash": "sha256-d1f48045e293c78bc3149fa97be017d45b6b4f3f83feab620ad4d9ce8a450080",
+      "fileSize": 46198,
       "repositoryName": "AllForU"
     },
     {
