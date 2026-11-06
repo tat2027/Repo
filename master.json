@@ -1,6 +1,6 @@
 {
   "name": "Unified CloudStream Master Repository",
-  "description": "Auto-merged master repository with 200+ extensions (234 extensions from 14 repositories)",
+  "description": "Auto-merged master repository with 200+ extensions (235 extensions from 14 repositories)",
   "manifestVersion": 2,
   "iconUrl": "https://raw.githubusercontent.com/LagradOst/CloudStream-3/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
   "pluginLists": [
@@ -3832,6 +3832,28 @@
       "apiVersion": 1,
       "fileHash": "sha256-eca886023c9f3c0665a29be69f57a058b73a371699660ef6b54b6a37d916cf3d",
       "repositoryName": "Phisher Repo"
+    },
+    {
+      "version": 2,
+      "internalName": "QuickPlay",
+      "name": "QuickPlay",
+      "pluginClassName": "com.allforu.QuickPlayPlugin",
+      "status": 1,
+      "apiVersion": 1,
+      "language": "en",
+      "authors": [
+        "AllForU"
+      ],
+      "tvTypes": [
+        "TvSeries"
+      ],
+      "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+      "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/QuickPlay-v2.cs3",
+      "description": "QuickPlay - 52 short-drama OTTs in one plugin (pick platforms in settings; per-OTT Home rows, search, subtitles & HLS/MP4 playback)",
+      "iconUrl": "https://m.quickplay.my.id/icon.png",
+      "fileHash": "sha256-f666966b996d09e010fb83e49ca42783596f15610d04df4378115c4d331df2b9",
+      "fileSize": 54247,
+      "repositoryName": "AllForU"
     },
     {
       "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/RadioIndia.cs3",
