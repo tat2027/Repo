@@ -1639,16 +1639,16 @@
     "repositoryName": "Xtron Repo"
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/06075c440e9751d3/Eclipsia.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/05c5c0119b0c5820/Eclipsia.cs3",
     "status": 1,
-    "version": 6,
+    "version": 9,
     "name": "Eclipsia",
     "internalName": "Eclipsia",
     "authors": [
       "Eclipsia"
     ],
     "description": "Curated collection of Providers",
-    "fileSize": 434260,
+    "fileSize": 1051095,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -1657,20 +1657,20 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/47cdacc9a3f2f869.png",
     "apiVersion": 1,
-    "fileHash": "sha256-06075c440e9751d3c1dfa4de8b748da2febed31c8f10b79fb21b794a190bcde8",
+    "fileHash": "sha256-05c5c0119b0c58202daeee6326d425816b7351c6b78ebaa004b43ff460bd5a79",
     "repositoryName": "Eclipsia"
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/d61b5a084c6a5292/EclipsiaAnime.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/0581377f2119f773/EclipsiaAnime.cs3",
     "status": 1,
-    "version": 4,
+    "version": 9,
     "name": "EclipsiaAnime",
     "internalName": "EclipsiaAnime",
     "authors": [
       "Eclipsia"
     ],
     "description": "AniList & Kitsu Catalog with Anime Providers",
-    "fileSize": 306195,
+    "fileSize": 993996,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -1680,20 +1680,20 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/47cdacc9a3f2f869.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d61b5a084c6a52923183833d847223cb64ab32b0545c7133b2c5719bb294a8ee",
+    "fileHash": "sha256-0581377f2119f7735c0a26e0e2dedd7537c17ffb208b540575e38e22663a26a3",
     "repositoryName": "Eclipsia"
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/68b0ec7df7cd9dfe/EclipsiaBDIX.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/634b498f8635e82f/EclipsiaBDIX.cs3",
     "status": 1,
-    "version": 2,
+    "version": 9,
     "name": "EclipsiaBDIX",
     "internalName": "EclipsiaBDIX",
     "authors": [
       "Eclipsia"
     ],
     "description": "Bangladesh Only",
-    "fileSize": 223744,
+    "fileSize": 849229,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -1702,7 +1702,7 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/113e041859b58540.png",
     "apiVersion": 1,
-    "fileHash": "sha256-68b0ec7df7cd9dfe006e318443a0d16beb060fb3b20633516a22899953e1b24c",
+    "fileHash": "sha256-634b498f8635e82f8948d4342743e91e13d2f7357c00a80cde8bf2e7bd7fd6f4",
     "repositoryName": "Eclipsia"
   },
   {
@@ -2176,14 +2176,14 @@
   {
     "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
     "status": 1,
-    "version": 90,
+    "version": 91,
     "name": "IndStream",
     "internalName": "IndStream",
     "authors": [
       "Indflix"
     ],
     "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
-    "fileSize": 370608,
+    "fileSize": 372335,
     "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
     "tvTypes": [
@@ -2193,7 +2193,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a82432da9a36b48380899a2d2b40f06930f92b30cc523bab24da85f085edacfe",
+    "fileHash": "sha256-c207c44c39956060197dc9bc74375ece5dd506770a0cd9b2732da50964281fe5",
     "repositoryName": "Indflix"
   },
   {
@@ -2589,16 +2589,16 @@
     "repositoryName": "CNC Repo (All Language)"
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/a4e6e34def8eeedd/LiveSports.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/5aec637b5d2d89c7/LiveSports.cs3",
     "status": 1,
-    "version": 4,
+    "version": 9,
     "name": "LiveSports",
     "internalName": "LiveSports",
     "authors": [
       "Eclipsia"
     ],
     "description": "Live Sports Events",
-    "fileSize": 2166153,
+    "fileSize": 2921733,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -2606,7 +2606,7 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/1af19da1f4cde7ed.png",
     "apiVersion": 1,
-    "fileHash": "sha256-a4e6e34def8eeedd007b66fc722e46d59e83b027c259dac67b12288fd4397c24",
+    "fileHash": "sha256-5aec637b5d2d89c7db1f880307bd32e2c98193ed1b274135ca26714f8c2a603c",
     "repositoryName": "Eclipsia"
   },
   {
@@ -3168,7 +3168,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-4fd4b7f2bd78e7101d0d0fe341961e3862a1f6c1b7ef63959c076533088b6b44",
+    "fileHash": "sha256-41a3775e02243f324586b3fd30cdb6b2ac1a73d6ec7527a14df2c6f55883ea91",
     "repositoryName": "Indflix"
   },
   {
@@ -4305,14 +4305,14 @@
   {
     "url": "https://raw.githubusercontent.com/Faisal0786/Desi/builds/StreamHubOne.cs3",
     "status": 1,
-    "version": 82,
+    "version": 83,
     "name": "StreamHubOne",
     "internalName": "StreamHubOne",
     "authors": [
       "Faisal"
     ],
     "description": "StreamHub -  Multilingual provider Non-Stop Solution For Streaming Movies/Tv series & Anime ",
-    "fileSize": 1326457,
+    "fileSize": 1296283,
     "repositoryUrl": "https://github.com/Faisal0786/Desi",
     "language": "hi",
     "tvTypes": [
@@ -4324,7 +4324,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/Faisal0786/Desi/main/Icons/images%20(1).jpeg",
     "apiVersion": 1,
-    "fileHash": "sha256-78c2fac5a0651b9245c780937e07a19efce93855e290942ee2c832e584f3957b",
+    "fileHash": "sha256-17b06b27bc13cc4b605cfedf7b450c5aaa7bd706d84e86b282506bed95e50db3",
     "repositoryName": "Desi Extensions"
   },
   {
