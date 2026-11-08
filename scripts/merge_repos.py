@@ -33,10 +33,6 @@ DEFAULT_REPOSITORIES = [
         "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/builds/CNC.json"
     },
     {
-        "name": "Cinephile",
-        "url": "https://raw.githubusercontent.com/rockhero1234/cinephile/refs/heads/builds/repo.json"
-    },
-    {
         "name": "Raghav Repo",
         "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/repo.json"
     },
