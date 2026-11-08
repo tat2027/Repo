@@ -49,10 +49,6 @@ DEFAULT_REPOSITORIES = [
         "url": "https://raw.githubusercontent.com/FlummoxGamer/FLUMMOX-Repo/builds/repo.json"
     },
     {
-        "name": "Desi Extensions",
-        "url": "https://raw.githubusercontent.com/Faisal0786/Desi/main/repo.json"
-    },
-    {
         "name": "NetMirror",
         "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/builds/Netflix.json"
     },
