@@ -1444,10 +1444,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/EasyPlayProvider/icon.png",
-    "fileHash": "sha256-044441c638148ea8021ce6f570c082753a516f15ee875b7a5ebe1236aa79d69a",
+    "fileHash": "sha256-886dcad925ce2274075ef642b8ac178b7b684fb42c17b874f7711d0c6b9d91ea",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 60579,
+    "fileSize": 62569,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1456,7 +1456,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 4,
+    "version": 5,
     "internalName": "EasyPlayProvider",
     "description": "EasyPlay IPTV Live TV channels (auto-leased Xtream playlist, no login)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/EasyPlayProvider.cs3",
@@ -2120,14 +2120,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/JustPlay.cs3",
     "status": 1,
-    "version": 33,
+    "version": 34,
     "name": "JustPlay",
     "internalName": "JustPlay",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Movies, series and live sports from multiple sources with a Manage Sources screen that filters download and stream links",
-    "fileSize": 584176,
+    "fileSize": 582510,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -2136,7 +2136,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknDTJSN2AhrHzfxF75gr9-qG4x-JzwHRnvPDjZP2aa-93KRaXPF1_ZQdm&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-1c7b4aabcad4bf8cc25e1a2ec4f7a3474ae04a6af8ee7c3200d65d4cd07707d6",
+    "fileHash": "sha256-ed232ab101ff677bbaab1a7904ea00b8629fbe30275a5fb5b69c6e0d6c6b46ce",
     "repositoryName": "Raghav Repo"
   },
   {
