@@ -1443,6 +1443,27 @@
     "repositoryName": "Xtron Repo"
   },
   {
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/EasyPlayProvider/icon.png",
+    "fileHash": "sha256-044441c638148ea8021ce6f570c082753a516f15ee875b7a5ebe1236aa79d69a",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 60579,
+    "status": 1,
+    "language": "en",
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Live"
+    ],
+    "version": 4,
+    "internalName": "EasyPlayProvider",
+    "description": "EasyPlay IPTV Live TV channels (auto-leased Xtream playlist, no login)",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/EasyPlayProvider.cs3",
+    "name": "EasyPlayProvider",
+    "repositoryName": "CNC Repo (All Language)"
+  },
+  {
     "url": "https://cs.eclipsia.dpdns.org/files/05c5c0119b0c5820/Eclipsia.cs3",
     "status": 1,
     "version": 9,

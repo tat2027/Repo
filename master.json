@@ -1,6 +1,6 @@
 {
   "name": "Unified CloudStream Master Repository",
-  "description": "Auto-merged master repository with 200+ extensions (213 extensions from 12 repositories)",
+  "description": "Auto-merged master repository with 200+ extensions (214 extensions from 12 repositories)",
   "manifestVersion": 2,
   "iconUrl": "https://raw.githubusercontent.com/LagradOst/CloudStream-3/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
   "pluginLists": [
@@ -1449,6 +1449,27 @@
       "apiVersion": 1,
       "fileHash": "sha256-b05698d5c887e076a798ed35e944df470f8c6eaa9ec599d1b4b11a1e29f91f0f",
       "repositoryName": "Xtron Repo"
+    },
+    {
+      "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/EasyPlayProvider/icon.png",
+      "fileHash": "sha256-044441c638148ea8021ce6f570c082753a516f15ee875b7a5ebe1236aa79d69a",
+      "apiVersion": 1,
+      "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+      "fileSize": 60579,
+      "status": 1,
+      "language": "en",
+      "authors": [
+        "NivinCNC"
+      ],
+      "tvTypes": [
+        "Live"
+      ],
+      "version": 4,
+      "internalName": "EasyPlayProvider",
+      "description": "EasyPlay IPTV Live TV channels (auto-leased Xtream playlist, no login)",
+      "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/EasyPlayProvider.cs3",
+      "name": "EasyPlayProvider",
+      "repositoryName": "CNC Repo (All Language)"
     },
     {
       "url": "https://cs.eclipsia.dpdns.org/files/05c5c0119b0c5820/Eclipsia.cs3",
