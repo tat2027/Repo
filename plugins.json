@@ -545,14 +545,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AnimeTH.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "AnimeTH",
     "internalName": "AnimeTH",
     "authors": [
       "raghav"
     ],
     "description": "anime with Thai dub and sub",
-    "fileSize": 56920,
+    "fileSize": 61040,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "th",
     "tvTypes": [
@@ -561,7 +561,7 @@
     ],
     "iconUrl": "https://anime-th.com/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-b694c9aa0314e857b40ba16ac0585ab1c604cfaf034595b2dfa3cbd86c5d28d1",
+    "fileHash": "sha256-235676cd13387a48a7575e1cf741007a1a12f5bf82c3f6371a4ea76200c4d044",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -590,14 +590,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/AnimeWorldIndia.cs3",
     "status": 1,
-    "version": 12,
+    "version": 13,
     "name": "AnimeWorldIndia",
     "internalName": "AnimeWorldIndia",
     "authors": [
       "raghav"
     ],
     "description": "Anime World India - Hindi, Tamil, Telugu Anime & Cartoons with multi-audio",
-    "fileSize": 67987,
+    "fileSize": 69392,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "hi",
     "tvTypes": [
@@ -607,7 +607,7 @@
     ],
     "iconUrl": "https://watchanimeworld.top/wp-content/uploads/AW_Smiley.png",
     "apiVersion": 1,
-    "fileHash": "sha256-3c48b190e02f7584b7815140db9b610b6992e7440069fcc2d16d07d772c4f0d3",
+    "fileHash": "sha256-bfdfefe697519832fbdcf8b691906093f85904b07477d853b615c18f63a5a1f1",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -797,14 +797,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Anv.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "Anv",
     "internalName": "Anv",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Anime sub and dub from multiple servers with subtitle language support",
-    "fileSize": 64925,
+    "fileSize": 68313,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -814,7 +814,7 @@
     ],
     "iconUrl": "https://anv.to/brand/icon-512.png",
     "apiVersion": 1,
-    "fileHash": "sha256-58cc72a53b3e5315af71aad07442eef11f8998e3315b9b8ed30ad22f9de65d22",
+    "fileHash": "sha256-8b34ded29e04b6363552813e31b2b726722cf27920a7524e84580db56aca6037",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -1271,14 +1271,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/DamiTVProvider.cs3",
     "status": 1,
-    "version": 30,
+    "version": 31,
     "name": "DamiTVProvider",
     "internalName": "DamiTVProvider",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Live sports in HD: football, NBA, NFL, UFC, cricket and 120 live sports channels",
-    "fileSize": 69160,
+    "fileSize": 72234,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -1286,7 +1286,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvvc01IqbjrBZ-AhXwvyrIblnaJBA04IUNKmJNRbqEh46fWVItaGuoRsj&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-425d96e2d11ff7ed12cf5578b65b5cabca232942049d3990d8b2b7d8923c24f3",
+    "fileHash": "sha256-4bfa9b2190afa6a290cb785ee201481a0f7219d08f5f9e3e1f797a8542ce5b25",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -1577,14 +1577,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/EliteStreams.cs3",
     "status": 1,
-    "version": 10,
+    "version": 11,
     "name": "EliteStreams",
     "internalName": "EliteStreams",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Live sports and TV channels from JioTV+, Jio Hotstar, Sony LIV and FanCode",
-    "fileSize": 58811,
+    "fileSize": 62338,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "hi",
     "tvTypes": [
@@ -1592,7 +1592,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvjVrQOYj-sTUXwbXmmIso7vR3mqtH_sxhXF69vtY5FXAK4M4iCaeLoatA&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-6641f6dd38f6055608d1938d0464cbc8662dcfdb1790d5a30fd5048cdfc1700a",
+    "fileHash": "sha256-4bb4e48f62a52f108ad3e82e30be576b540411afe3f816ade460f40a8cc3ae66",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -1908,14 +1908,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/HiCine.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "HiCine",
     "internalName": "HiCine",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "HiCine - Bollywood and Hollywood movies, web series, anime and TV shows in dual audio.",
-    "fileSize": 58619,
+    "fileSize": 62054,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "hi",
     "tvTypes": [
@@ -1926,7 +1926,7 @@
     ],
     "iconUrl": "https://png.pngtree.com/element_our/png/20181227/movie-icon-which-is-designed-for-all-application-purpose-new-png_287896.jpg",
     "apiVersion": 1,
-    "fileHash": "sha256-23a6144db02b5476419bb99e460b556db36fe6fab3ce7485ed1df8cd29cefa70",
+    "fileHash": "sha256-883a4e4857d7b7541dddc3180fd4a86bbaeb6755793484122e00c70b54376cae",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2001,14 +2001,14 @@
   {
     "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
     "status": 1,
-    "version": 91,
+    "version": 92,
     "name": "IndStream",
     "internalName": "IndStream",
     "authors": [
       "Indflix"
     ],
     "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
-    "fileSize": 372335,
+    "fileSize": 365352,
     "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
     "tvTypes": [
@@ -2018,7 +2018,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c207c44c39956060197dc9bc74375ece5dd506770a0cd9b2732da50964281fe5",
+    "fileHash": "sha256-9f1315bb7adaddef918c24f744ed4178c86d6d86c296560ae3e34e2774496fd7",
     "repositoryName": "Indflix"
   },
   {
@@ -2118,14 +2118,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/JustPlay.cs3",
     "status": 1,
-    "version": 34,
+    "version": 37,
     "name": "JustPlay",
     "internalName": "JustPlay",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Movies, series and live sports from multiple sources with a Manage Sources screen that filters download and stream links",
-    "fileSize": 582510,
+    "fileSize": 596500,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -2134,7 +2134,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknDTJSN2AhrHzfxF75gr9-qG4x-JzwHRnvPDjZP2aa-93KRaXPF1_ZQdm&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-ed232ab101ff677bbaab1a7904ea00b8629fbe30275a5fb5b69c6e0d6c6b46ce",
+    "fileHash": "sha256-72e02d9c3fe9211f222d042a9130628311de4a8574f282ebc02292c0dbc01333",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2163,14 +2163,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Kdesa.cs3",
     "status": 1,
-    "version": 8,
+    "version": 9,
     "name": "Kdesa",
     "internalName": "Kdesa",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "KDesa - Movies, TV Shows & Anime Multi-source,Multi-audio",
-    "fileSize": 67492,
+    "fileSize": 71236,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -2180,7 +2180,7 @@
     ],
     "iconUrl": "https://kdesa.stream/android-chrome-192x192.png?v=6",
     "apiVersion": 1,
-    "fileHash": "sha256-215b1c964671f3e37b6ace7ae71dd9e1e165f57cc176eba32acd656ef76241b2",
+    "fileHash": "sha256-58317141a5e1a02337fa61776abc7d8c48abc942f4b80b4617c207e394457650",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2389,14 +2389,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/LiveTgTv.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "LiveTgTv",
     "internalName": "LiveTgTv",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "INDIAN TV CHANNELS",
-    "fileSize": 45353,
+    "fileSize": 49858,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "hi",
     "tvTypes": [
@@ -2404,7 +2404,7 @@
     ],
     "iconUrl": "https://img.magnific.com/free-vector/live-webcast-broadcasting-symbol-online-events_1017-62406.jpg?semt=ais_hybrid&w=740&q=80",
     "apiVersion": 1,
-    "fileHash": "sha256-2bd954e35198fa916cb8b96cee5536ba17384ffb47fa2f8db57029d5ae76e380",
+    "fileHash": "sha256-d30a967884506fe5a0a7223e86634f76c822761fd8185d4b9a096796252de49b",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2834,14 +2834,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Movy.cs3",
     "status": 1,
-    "version": 5,
+    "version": 6,
     "name": "Movy",
     "internalName": "Movy",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Movy - Movies and TV shows with multi-language audio (English, German, French, Hindi, Spanish, Tamil and more)",
-    "fileSize": 71808,
+    "fileSize": 75608,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -2852,7 +2852,7 @@
     ],
     "iconUrl": "https://www.movy.sx/icon-192x192.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f42f61e4172ac116e35065c8f9fba76d3cc0e70cd97f954b00c36818ebc29761",
+    "fileHash": "sha256-e491d1c9e213fdd9d4c9e8addd06ce94b2f0003b42752be932c87e5eb543481b",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2864,7 +2864,7 @@
     "authors": [
       "Indflix"
     ],
-    "description": "CloudStream provider that scrapes Multimovies and pulls sources in parallel with a per-source timeout.",
+    "description": "Fast and Multi-Language Provider",
     "fileSize": 127352,
     "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
@@ -2877,7 +2877,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-41a3775e02243f324586b3fd30cdb6b2ac1a73d6ec7527a14df2c6f55883ea91",
+    "fileHash": "sha256-fcbb63e0cce29e6e880e2d9e039506692b31f73a956200803e09329849659cb5",
     "repositoryName": "Indflix"
   },
   {
@@ -2906,14 +2906,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Nepu.cs3",
     "status": 1,
-    "version": 7,
+    "version": 8,
     "name": "Nepu",
     "internalName": "Nepu",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Movies, shows, cartoons and anime in HD",
-    "fileSize": 83250,
+    "fileSize": 86734,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -2925,7 +2925,7 @@
     ],
     "iconUrl": "https://play-lh.googleusercontent.com/RVADHx9LB0v5T0icvbhDrnVN32jrNMGG6MpDKWnHK6uPIQESx0yIIbQNQBCj_GcX42HqnQ6Bf1sfkTKDMSrnQQ=w240-h480-rw",
     "apiVersion": 1,
-    "fileHash": "sha256-0f79cf3f5406f4783faab0aaa47b195eb5e39908034e6bf66e17efc717346ccf",
+    "fileHash": "sha256-1c4a1f0c349f3cc420f1c460ed7a4d433909eb55365398f75b1aefeb05747f85",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -3001,14 +3001,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/NetNaija-box.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "NetNaija-box",
     "internalName": "NetNaija-box",
     "authors": [
       "raghav"
     ],
     "description": "NetNaija-box - Multi Language Movies, Series and Live Sports. HD streaming with multiple dubs and subtitles.",
-    "fileSize": 153412,
+    "fileSize": 156552,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -3018,7 +3018,7 @@
     ],
     "iconUrl": "https://netnaija.film/favicon.ico",
     "apiVersion": 1,
-    "fileHash": "sha256-9bf3f3aeb9f644f06facb6c602d15f255b10efe0851b698e440e7743b1aa683b",
+    "fileHash": "sha256-f679a06b3c32dbdcdd4c39dfd951bfa91f1575207af887ef54aa3b6f1278df3b",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -4150,14 +4150,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/TheMoviesFlix.cs3",
     "status": 1,
-    "version": 26,
+    "version": 27,
     "name": "TheMoviesFlix",
     "internalName": "TheMoviesFlix",
     "authors": [
       "raghav"
     ],
     "description": "stream movies & TV series HINDI,ENGLISH - TheMoviesFlix Provider",
-    "fileSize": 81373,
+    "fileSize": 82461,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -4166,7 +4166,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_C9WX4AwepepLyw_cF-EIJeRpqgI4wDiquYSoP9xDFFAKFtTVM-P_zo&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-07ba9d520134179ee7c654ea9626cba560e6d496fb5c59083e92096dbdfa3c0a",
+    "fileHash": "sha256-9210ff64ddb8f222780d0152f910f6d3d238c46aec2d86ee292be96423415c37",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -4195,14 +4195,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Toonix.cs3",
     "status": 1,
-    "version": 9,
+    "version": 10,
     "name": "Toonix",
     "internalName": "Toonix",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "cartoons and anime in hindi, english and japanese sub",
-    "fileSize": 91643,
+    "fileSize": 95938,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "hi",
     "tvTypes": [
@@ -4213,7 +4213,7 @@
     ],
     "iconUrl": "https://toonix.bond/icon.png?df3a3feb46702fd9",
     "apiVersion": 1,
-    "fileHash": "sha256-ab0ae2261f88c995d52c48122fbf525c98b90d25a8a375eef70ce28df41dd2e6",
+    "fileHash": "sha256-33d542e69b3eb6809cd0109778cdf32c6faeb3f9bd89db5a437dd1d242fb9a54",
     "repositoryName": "Raghav Repo"
   },
   {
