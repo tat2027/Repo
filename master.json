@@ -2126,14 +2126,14 @@
     {
       "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/JustPlay.cs3",
       "status": 1,
-      "version": 37,
+      "version": 38,
       "name": "JustPlay",
       "internalName": "JustPlay",
       "authors": [
         "KSHITIJ8473"
       ],
       "description": "Movies, series and live sports from multiple sources with a Manage Sources screen that filters download and stream links",
-      "fileSize": 596500,
+      "fileSize": 606020,
       "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
       "language": "en",
       "tvTypes": [
@@ -2142,7 +2142,7 @@
       ],
       "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknDTJSN2AhrHzfxF75gr9-qG4x-JzwHRnvPDjZP2aa-93KRaXPF1_ZQdm&s=10",
       "apiVersion": 1,
-      "fileHash": "sha256-72e02d9c3fe9211f222d042a9130628311de4a8574f282ebc02292c0dbc01333",
+      "fileHash": "sha256-be0beed48160a7c7c2ae94f93bbe4d5d067d6ee6c809998c91705a8bfa0bae0c",
       "repositoryName": "Raghav Repo"
     },
     {
