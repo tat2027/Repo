@@ -1423,14 +1423,14 @@
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/DudeFilms.cs3",
     "status": 1,
-    "version": 25,
+    "version": 27,
     "name": "DudeFilms",
     "internalName": "DudeFilms",
     "authors": [
       "Xtron"
     ],
     "description": "Watch Movies & TvSeries (Multi-Lang)",
-    "fileSize": 145918,
+    "fileSize": 145993,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -1439,7 +1439,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/dudefilms.png",
     "apiVersion": 1,
-    "fileHash": "sha256-f54aaa8da31b8525f888e326712bcc533623d74bf027b9c2fc826d4686138556",
+    "fileHash": "sha256-9afcc20287156d60f4678bbe707571dad8d36bb0bf43c82b597942327f3fb419",
     "repositoryName": "Xtron Repo"
   },
   {
@@ -2387,24 +2387,24 @@
     "repositoryName": "Eclipsia"
   },
   {
-    "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/LiveTgTv.cs3",
+    "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/LiveTGTV + M3U PLAYER.cs3",
     "status": 1,
-    "version": 6,
-    "name": "LiveTgTv",
-    "internalName": "LiveTgTv",
+    "version": 7,
+    "name": "LiveTGTV + M3U PLAYER",
+    "internalName": "LiveTGTV + M3U PLAYER",
     "authors": [
       "KSHITIJ8473"
     ],
-    "description": "INDIAN TV CHANNELS",
-    "fileSize": 49858,
+    "description": "Indian TV channels through m3u playlists ",
+    "fileSize": 62623,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "hi",
     "tvTypes": [
       "Live"
     ],
-    "iconUrl": "https://img.magnific.com/free-vector/live-webcast-broadcasting-symbol-online-events_1017-62406.jpg?semt=ais_hybrid&w=740&q=80",
+    "iconUrl": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
     "apiVersion": 1,
-    "fileHash": "sha256-d30a967884506fe5a0a7223e86634f76c822761fd8185d4b9a096796252de49b",
+    "fileHash": "sha256-44b751df10fa8b635ccdd7bd769d5aeb0a1575a8717f812cce1ff0fd8a32d9b2",
     "repositoryName": "Raghav Repo"
   },
   {
