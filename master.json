@@ -241,7 +241,7 @@
         "KSHITIJ8473"
       ],
       "description": "AniKoto Anime - Watch Anime Sub & Dub in HD",
-      "fileSize": 63676,
+      "fileSize": 65043,
       "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
       "language": "en",
       "tvTypes": [
@@ -251,7 +251,7 @@
       ],
       "iconUrl": "https://anikototv.to/AnikotoTheme/assets/images/favicon.png",
       "apiVersion": 1,
-      "fileHash": "sha256-a26ddf672ec0671fa9deb18c3889198f6e57808f32d48268fa85ed3ca82e4425",
+      "fileHash": "sha256-bc2ef8826a19cfcf88571adc84a3e00156e1bac6abc33906fbabae4013630c0c",
       "repositoryName": "Raghav Repo"
     },
     {
@@ -697,7 +697,7 @@
         "raghav"
       ],
       "description": "Anime from AniSuge with Sub and Dub",
-      "fileSize": 77983,
+      "fileSize": 78873,
       "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
       "language": "en",
       "tvTypes": [
@@ -707,7 +707,7 @@
       ],
       "iconUrl": "https://animesuge.at/storage/media/2026/08/logo.png",
       "apiVersion": 1,
-      "fileHash": "sha256-3ec68c9bfd18b9ac370ca54472d0b5c9a7019ebe05b80574178041a5cf943263",
+      "fileHash": "sha256-e9547cd5779c43ff29e88aadc2ea627436230c40c2ee0629352093d4abacb02a",
       "repositoryName": "Raghav Repo"
     },
     {
@@ -1034,14 +1034,14 @@
     {
       "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinefreak.cs3",
       "status": 1,
-      "version": 23,
+      "version": 24,
       "name": "Cinefreak",
       "internalName": "Cinefreak",
       "authors": [
         "Phisher98"
       ],
       "description": "Bangla/Hindi Movies/Series",
-      "fileSize": 260012,
+      "fileSize": 246588,
       "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
       "language": "bn",
       "tvTypes": [
@@ -1051,7 +1051,7 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
       "apiVersion": 1,
-      "fileHash": "sha256-cd75f64149bdb642a404c9d45ef1f832eb4914afe3430bd1ae41d8fcf53d8263",
+      "fileHash": "sha256-d30e14cfbc1205fe2dbba78b730679715347cba29aac841e9c2e1ff87e554241",
       "repositoryName": "Phisher Repo"
     },
     {
@@ -1257,10 +1257,10 @@
     },
     {
       "iconUrl": "https://thedaddy.pk/assets/logos/favicon-32x32.png",
-      "fileHash": "sha256-9c39536e728c24ccebe2efcb935e0bf735738dc3cddc969d4e30282dc75ce6f7",
+      "fileHash": "sha256-65e96c1260fcf23db35155f5c8934a5eaeefb9732a3a8adcfca57800bf4eb1f1",
       "apiVersion": 1,
       "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-      "fileSize": 72528,
+      "fileSize": 73704,
       "status": 1,
       "language": "en",
       "authors": [
@@ -1269,7 +1269,7 @@
       "tvTypes": [
         "Live"
       ],
-      "version": 3,
+      "version": 8,
       "internalName": "DaddyLiveProvider",
       "description": "Live sports schedule and 900+ 24/7 channels from DaddyLive (thedaddy.pk)",
       "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/DaddyLiveProvider.cs3",
@@ -2728,10 +2728,10 @@
     },
     {
       "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MoviePlusProvider/icon.png",
-      "fileHash": "sha256-20da80f8e5e8a69df7088ff8de0856d3b89bf43f9e33465c12184f5a7a28e781",
+      "fileHash": "sha256-210409abbc79d39ac833566308ccdde8543214c8600a7e1d7574e32065e0cab9",
       "apiVersion": 1,
       "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-      "fileSize": 84083,
+      "fileSize": 87680,
       "status": 1,
       "language": "mx",
       "authors": [
@@ -2741,7 +2741,7 @@
         "Movie",
         "TvSeries"
       ],
-      "version": 2,
+      "version": 3,
       "internalName": "MoviePlusProvider",
       "description": "Movie! Plus — Spanish/Latino movies & series (TMDB metadata, Yandex.Disk sources, no login)",
       "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MoviePlusProvider.cs3",
@@ -3615,7 +3615,7 @@
         "raghav"
       ],
       "description": "ONE STOP SOLUTION FOR ANIME(SUB,DUB,hardsub) collection of best sources",
-      "fileSize": 723810,
+      "fileSize": 724600,
       "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
       "language": "en",
       "tvTypes": [
@@ -3625,7 +3625,7 @@
       ],
       "iconUrl": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-Images.png",
       "apiVersion": 1,
-      "fileHash": "sha256-07fb0a31a6c233af2becea05a9df65054155890f46f57201d2824d8d3187bfbf",
+      "fileHash": "sha256-6df3177750d9d0e6bffb8a039746e214c2c85d029fd3aa064aaf803e7d024e51",
       "repositoryName": "Raghav Repo"
     },
     {
@@ -3638,7 +3638,7 @@
         "raghav"
       ],
       "description": "ONE STOP SOLUTION FOR ANIME(SUB,DUB,hardsub) collection of best sources - Kitsu Catalog",
-      "fileSize": 711588,
+      "fileSize": 712247,
       "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
       "language": "en",
       "tvTypes": [
@@ -3648,7 +3648,7 @@
       ],
       "iconUrl": "https://www.pngall.com/wp-content/uploads/13/Anime-Logo-PNG-Images.png",
       "apiVersion": 1,
-      "fileHash": "sha256-40d8bac3b36fb0a67204df5e364c4deb12c18f92ebb1bbd0971d7c2ad67c9378",
+      "fileHash": "sha256-dae3d3fb3dd147b55bb75ed1fbd210d7b1f538a8906a454ff44e7ebbd9d96d44",
       "repositoryName": "Raghav Repo"
     },
     {
@@ -3950,7 +3950,7 @@
     {
       "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
       "status": 1,
-      "version": 711,
+      "version": 712,
       "name": "StreamPlay",
       "internalName": "StreamPlay",
       "authors": [
@@ -3958,7 +3958,7 @@
         "Hexated"
       ],
       "description": "#1 best extension based on MultiAPI",
-      "fileSize": 2184369,
+      "fileSize": 2191094,
       "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
       "language": "en",
       "tvTypes": [
@@ -3971,7 +3971,7 @@
       ],
       "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
       "apiVersion": 1,
-      "fileHash": "sha256-d4b1becaf0dfc304d6228e3414c93b814aa804785482b14dfe77fae1f01442d8",
+      "fileHash": "sha256-193ad4338ace504cb7a0b93be5cc22deecb6111f30d4a7593347cf6e1ff6a2e8",
       "repositoryName": "Phisher Repo"
     },
     {
