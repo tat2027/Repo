@@ -2696,10 +2696,10 @@
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/movielinkbd.webp",
-    "fileHash": "sha256-0de2d292f255f91ec7439bbe2f39b1fd6f5c9f300d3086d2c4c376c1eadaebdc",
+    "fileHash": "sha256-9f33044d7f643fbf2ed7de68cf0085b9398a39eed582ee680bfbfe7f299075c9",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 58086,
+    "fileSize": 64041,
     "status": 1,
     "language": "bn",
     "authors": [
@@ -2711,11 +2711,33 @@
       "AnimeMovie",
       "AsianDrama"
     ],
-    "version": 27,
+    "version": 28,
     "internalName": "MovieLinkBDProvider",
     "description": "MovieLinkBD - Largest Movie Download Site in Bangladesh",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieLinkBDProvider.cs3",
     "name": "MovieLinkBDProvider",
+    "repositoryName": "CNC Repo (All Language)"
+  },
+  {
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MoviePlusProvider/icon.png",
+    "fileHash": "sha256-20da80f8e5e8a69df7088ff8de0856d3b89bf43f9e33465c12184f5a7a28e781",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "fileSize": 84083,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "NivinCNC"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "MoviePlusProvider",
+    "description": "Movie! Plus — Spanish/Latino movies & series (TMDB metadata, Yandex.Disk sources, no login)",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MoviePlusProvider.cs3",
+    "name": "MoviePlusProvider",
     "repositoryName": "CNC Repo (All Language)"
   },
   {
