@@ -1444,10 +1444,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/EasyPlayProvider/icon.png",
-    "fileHash": "sha256-9d09ad14e004a00f179425f2d662c0463cc63a522fdac7401fe3bf97c9788aeb",
+    "fileHash": "sha256-de00e35b8508a1fc4907a2ac9afa9de4866949838a136d66d64e913f17097553",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 60967,
+    "fileSize": 74459,
     "status": 1,
     "language": "en",
     "authors": [
@@ -1456,7 +1456,7 @@
     "tvTypes": [
       "Live"
     ],
-    "version": 10,
+    "version": 12,
     "internalName": "EasyPlayProvider",
     "description": "EasyPlay IPTV Live TV channels (auto-leased Xtream playlist, no login)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/EasyPlayProvider.cs3",
@@ -2118,14 +2118,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/JustPlay.cs3",
     "status": 1,
-    "version": 41,
+    "version": 42,
     "name": "JustPlay",
     "internalName": "JustPlay",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Movies, series and live sports from multiple sources all in one collection of best sources with stream and download support ",
-    "fileSize": 625238,
+    "fileSize": 626533,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -2134,7 +2134,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknDTJSN2AhrHzfxF75gr9-qG4x-JzwHRnvPDjZP2aa-93KRaXPF1_ZQdm&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-3544c56e3a685ba0efd5ee01d25ec353346e4647ce28a500548c20296f28ac48",
+    "fileHash": "sha256-af87858a6c79dd9d34029e22370e3c463cd745c93358e3c00b05d4adc5f05329",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2720,10 +2720,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MoviePlusProvider/icon.png",
-    "fileHash": "sha256-210409abbc79d39ac833566308ccdde8543214c8600a7e1d7574e32065e0cab9",
+    "fileHash": "sha256-1696ae02a910a92f09082fad23196790098468384bb3f39bdbb23ae39983d1a3",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 87680,
+    "fileSize": 87670,
     "status": 1,
     "language": "mx",
     "authors": [
@@ -2733,7 +2733,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 3,
+    "version": 5,
     "internalName": "MoviePlusProvider",
     "description": "Movie! Plus — Spanish/Latino movies & series (TMDB metadata, Yandex.Disk sources, no login)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MoviePlusProvider.cs3",
@@ -3942,7 +3942,7 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StreamPlay.cs3",
     "status": 1,
-    "version": 712,
+    "version": 713,
     "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
@@ -3950,7 +3950,7 @@
       "Hexated"
     ],
     "description": "#1 best extension based on MultiAPI",
-    "fileSize": 2191094,
+    "fileSize": 2191950,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "en",
     "tvTypes": [
@@ -3963,7 +3963,7 @@
     ],
     "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
     "apiVersion": 1,
-    "fileHash": "sha256-193ad4338ace504cb7a0b93be5cc22deecb6111f30d4a7593347cf6e1ff6a2e8",
+    "fileHash": "sha256-9a9e5f073d5e2b179cbeebf508509d615c89eef315609db78667a46e94f28808",
     "repositoryName": "Phisher Repo"
   },
   {
