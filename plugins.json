@@ -2699,10 +2699,10 @@
   },
   {
     "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MoviePlusProvider/icon.png",
-    "fileHash": "sha256-1696ae02a910a92f09082fad23196790098468384bb3f39bdbb23ae39983d1a3",
+    "fileHash": "sha256-32bd76961660cbfbfe806b4ad19945ec283381c0127ed6bd0e5e236efa147704",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "fileSize": 87670,
+    "fileSize": 88733,
     "status": 1,
     "language": "mx",
     "authors": [
@@ -2712,7 +2712,7 @@
       "Movie",
       "TvSeries"
     ],
-    "version": 5,
+    "version": 6,
     "internalName": "MoviePlusProvider",
     "description": "Movie! Plus — Spanish/Latino movies & series (TMDB metadata, Yandex.Disk sources, no login)",
     "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MoviePlusProvider.cs3",
