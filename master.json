@@ -2009,14 +2009,14 @@
     {
       "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
       "status": 1,
-      "version": 109,
+      "version": 111,
       "name": "IndStream",
       "internalName": "IndStream",
       "authors": [
         "Indflix"
       ],
       "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
-      "fileSize": 392279,
+      "fileSize": 392309,
       "repositoryUrl": "https://github.com/dipender98/Indflix",
       "language": "hi",
       "tvTypes": [
@@ -2026,7 +2026,7 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
       "apiVersion": 1,
-      "fileHash": "sha256-5b7e2fdce555c6e33090c85f6d74476deedb03ce1618818a83ddb3b7f3952e2d",
+      "fileHash": "sha256-feedbaf0f0f11a3b3906ddb6ff7448cb8eedc9913c383cd6a39dd4a65c8a9017",
       "repositoryName": "Indflix"
     },
     {
@@ -2126,14 +2126,14 @@
     {
       "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/JustPlay.cs3",
       "status": 1,
-      "version": 48,
+      "version": 50,
       "name": "JustPlay",
       "internalName": "JustPlay",
       "authors": [
         "KSHITIJ8473"
       ],
       "description": "Movies, series and live sports from multiple sources all in one collection of best sources with stream and download support ",
-      "fileSize": 636897,
+      "fileSize": 645358,
       "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
       "language": "en",
       "tvTypes": [
@@ -2142,7 +2142,7 @@
       ],
       "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknDTJSN2AhrHzfxF75gr9-qG4x-JzwHRnvPDjZP2aa-93KRaXPF1_ZQdm&s=10",
       "apiVersion": 1,
-      "fileHash": "sha256-aef2c884e22bad887185699cf75dfbcfada306a4634ef7d969ae3817e3d3aff4",
+      "fileHash": "sha256-cdecaa81b90fdd996aadb3a8fbd73b693700b6e5609779fd92ae9c4b7c0fd08e",
       "repositoryName": "Raghav Repo"
     },
     {
@@ -2418,14 +2418,14 @@
     {
       "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/LIVETVProvider.cs3",
       "status": 1,
-      "version": 45,
+      "version": 47,
       "name": "LIVETVProvider",
       "internalName": "LIVETVProvider",
       "authors": [
         "raghav,cnc"
       ],
       "description": "Watch LIVE TV channels & sports via LIVE TV",
-      "fileSize": 111267,
+      "fileSize": 109040,
       "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
       "language": "en",
       "tvTypes": [
@@ -2433,7 +2433,7 @@
       ],
       "iconUrl": "https://png.pngtree.com/png-vector/20191026/ourmid/pngtree-live-icon-design-template-vector-isolated-illustration-png-image_1874482.jpg",
       "apiVersion": 1,
-      "fileHash": "sha256-d8a8d48663bc98e9c77f9b13d9bffe1b01204acfb48dc2e3b16cf228c64f3907",
+      "fileHash": "sha256-1e4d7ccd2f684df4295f552462e1ef61d87e7ec6a24e2d4b38285f34ea7905c9",
       "repositoryName": "Raghav Repo"
     },
     {
@@ -2930,7 +2930,7 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
       "apiVersion": 1,
-      "fileHash": "sha256-d23975689d0df8817e1c760ff9cc4f22106085d2a861d5d994a042e9e427f7a5",
+      "fileHash": "sha256-9ba7c8bfa899b2ecc173ea4d25d9eb0de8477dabd0d646066b97b38630d13ede",
       "repositoryName": "Indflix"
     },
     {
