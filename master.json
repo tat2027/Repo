@@ -2009,14 +2009,14 @@
     {
       "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
       "status": 1,
-      "version": 112,
+      "version": 117,
       "name": "IndStream",
       "internalName": "IndStream",
       "authors": [
         "Indflix"
       ],
       "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
-      "fileSize": 392499,
+      "fileSize": 396197,
       "repositoryUrl": "https://github.com/dipender98/Indflix",
       "language": "hi",
       "tvTypes": [
@@ -2026,7 +2026,7 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
       "apiVersion": 1,
-      "fileHash": "sha256-5ba1c17acafba22aa5d66c342f6a0fac665c701ce5703a174aff4347b1104cb8",
+      "fileHash": "sha256-2e3c691329b121c4a8471f6964483a67e4532242e0d6baf7cab4b55ab014793e",
       "repositoryName": "Indflix"
     },
     {
@@ -2125,10 +2125,10 @@
     },
     {
       "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/JioTVPlusProvider/logo.png",
-      "fileHash": "sha256-883acd765a1ee611553c4095f999753d75f91e69bf7cb19c95cfec3b58c8aeec",
+      "fileHash": "sha256-1bd6a043a951bf5988bbbee6f18ffc10805ddc66a90a51eb5c04955ba262d8a8",
       "apiVersion": 1,
       "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-      "fileSize": 59929,
+      "fileSize": 60612,
       "status": 1,
       "language": "ta",
       "authors": [
@@ -2137,7 +2137,7 @@
       "tvTypes": [
         "Live"
       ],
-      "version": 1,
+      "version": 2,
       "internalName": "JioTVPlusProvider",
       "description": "Jio TV+ premium live channels (Sun bouquet, sports & more)",
       "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/JioTVPlusProvider.cs3",
@@ -2704,14 +2704,14 @@
     {
       "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBoxWeb.cs3",
       "status": 1,
-      "version": 10,
+      "version": 11,
       "name": "MovieBoxWeb",
       "internalName": "MovieBoxWeb",
       "authors": [
         "Xtron"
       ],
       "description": "MovieBox- Movies and TV Series",
-      "fileSize": 161269,
+      "fileSize": 168773,
       "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
       "language": "hi",
       "tvTypes": [
@@ -2720,7 +2720,7 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
       "apiVersion": 1,
-      "fileHash": "sha256-9d71b734b40b7dd7e4d9c3f28785c6cdbc0b9ceecbbac77fe5f5919270b5ef8b",
+      "fileHash": "sha256-5f0d2b4ad76e25e73e35ed3dde7256e36ce568d0bb2ffcad90ba7537ec64c963",
       "repositoryName": "Xtron Repo"
     },
     {
@@ -2928,7 +2928,7 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
       "apiVersion": 1,
-      "fileHash": "sha256-2d1f1464c5ad4ef430267d0ecae5c707372f38187c99215278f9db9664972e8a",
+      "fileHash": "sha256-c289368d8021c6519c59a9907abc621da5dfc992ac236eda0cfe1608769d7597",
       "repositoryName": "Indflix"
     },
     {
