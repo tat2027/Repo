@@ -1805,14 +1805,14 @@
     {
       "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
       "status": 1,
-      "version": 15,
+      "version": 17,
       "name": "HdMovie2",
       "internalName": "HdMovie2",
       "authors": [
         "Xtron"
       ],
       "description": "Hdmovie2",
-      "fileSize": 158830,
+      "fileSize": 160131,
       "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
       "language": "hi",
       "tvTypes": [
@@ -1821,7 +1821,7 @@
       ],
       "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png",
       "apiVersion": 1,
-      "fileHash": "sha256-c256c63f7902b3f4660e7f49a756ec3f219db67ea67109c05efa6cf46a4c4bee",
+      "fileHash": "sha256-2a96d19bc59315be3647c001a8376726d212929583dcaf4cead0a759310620a0",
       "repositoryName": "Xtron Repo"
     },
     {
@@ -2147,14 +2147,14 @@
     {
       "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/JustPlay.cs3",
       "status": 1,
-      "version": 51,
+      "version": 52,
       "name": "JustPlay",
       "internalName": "JustPlay",
       "authors": [
         "KSHITIJ8473"
       ],
       "description": "Movies, series and live sports from multiple sources all in one collection of best sources with stream and download support ",
-      "fileSize": 646180,
+      "fileSize": 646428,
       "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
       "language": "en",
       "tvTypes": [
@@ -2163,7 +2163,7 @@
       ],
       "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknDTJSN2AhrHzfxF75gr9-qG4x-JzwHRnvPDjZP2aa-93KRaXPF1_ZQdm&s=10",
       "apiVersion": 1,
-      "fileHash": "sha256-5b7cdfca9426de1cbf15b9a841a3a53cea6629edb55607004ab212e9f854fa7a",
+      "fileHash": "sha256-6eb75c1fbca353f92f8e021b3c6439a2404262456071f180112bf1603b732292",
       "repositoryName": "Raghav Repo"
     },
     {
@@ -2192,14 +2192,14 @@
     {
       "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Kdesa.cs3",
       "status": 1,
-      "version": 10,
+      "version": 11,
       "name": "Kdesa",
       "internalName": "Kdesa",
       "authors": [
         "KSHITIJ8473"
       ],
       "description": "KDesa - Movies, TV Shows & Anime Multi-source,Multi-audio in hindi,english etc",
-      "fileSize": 72143,
+      "fileSize": 87424,
       "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
       "language": "en",
       "tvTypes": [
@@ -2209,7 +2209,7 @@
       ],
       "iconUrl": "https://kdesa.stream/android-chrome-192x192.png?v=6",
       "apiVersion": 1,
-      "fileHash": "sha256-2aaeee0e6c50e325343daa96c409c71b20d5c27c01e332351abc17b1f19d8c8f",
+      "fileHash": "sha256-42e75e9d438094c4002d3c21cfecc7cacdd598c3429c53a60580ed77a80e4d70",
       "repositoryName": "Raghav Repo"
     },
     {
