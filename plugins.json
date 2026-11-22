@@ -1796,15 +1796,15 @@
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/HdMovie2.cs3",
-    "status": 3,
-    "version": 14,
-    "name": "HdMovie2 (Broken)",
+    "status": 1,
+    "version": 15,
+    "name": "HdMovie2",
     "internalName": "HdMovie2",
     "authors": [
       "Xtron"
     ],
     "description": "Hdmovie2",
-    "fileSize": 151431,
+    "fileSize": 158830,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -1813,7 +1813,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/HDMovie2.png",
     "apiVersion": 1,
-    "fileHash": "sha256-54107fb3a942fe665890ce22f4c3132e58f88fad7a9e8346dc3f874026655cf5",
+    "fileHash": "sha256-c256c63f7902b3f4660e7f49a756ec3f219db67ea67109c05efa6cf46a4c4bee",
     "repositoryName": "Xtron Repo"
   },
   {
@@ -2001,14 +2001,14 @@
   {
     "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
     "status": 1,
-    "version": 117,
+    "version": 123,
     "name": "IndStream",
     "internalName": "IndStream",
     "authors": [
       "Indflix"
     ],
     "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
-    "fileSize": 396197,
+    "fileSize": 404101,
     "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
     "tvTypes": [
@@ -2018,7 +2018,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-2e3c691329b121c4a8471f6964483a67e4532242e0d6baf7cab4b55ab014793e",
+    "fileHash": "sha256-9535756baa81eb70c2fda9900b3606cbed33945859b6037312313d46e4260a01",
     "repositoryName": "Indflix"
   },
   {
@@ -2139,14 +2139,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/JustPlay.cs3",
     "status": 1,
-    "version": 50,
+    "version": 51,
     "name": "JustPlay",
     "internalName": "JustPlay",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "Movies, series and live sports from multiple sources all in one collection of best sources with stream and download support ",
-    "fileSize": 645358,
+    "fileSize": 646180,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -2155,7 +2155,7 @@
     ],
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSknDTJSN2AhrHzfxF75gr9-qG4x-JzwHRnvPDjZP2aa-93KRaXPF1_ZQdm&s=10",
     "apiVersion": 1,
-    "fileHash": "sha256-cdecaa81b90fdd996aadb3a8fbd73b693700b6e5609779fd92ae9c4b7c0fd08e",
+    "fileHash": "sha256-5b7cdfca9426de1cbf15b9a841a3a53cea6629edb55607004ab212e9f854fa7a",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2908,7 +2908,7 @@
       "Indflix"
     ],
     "description": "Fast and Multi-Language Provider",
-    "fileSize": 132276,
+    "fileSize": 131683,
     "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
     "tvTypes": [
@@ -2920,7 +2920,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-c289368d8021c6519c59a9907abc621da5dfc992ac236eda0cfe1608769d7597",
+    "fileHash": "sha256-7aee80288a08066c5103d14d1b87dfa449b35c6b734d61b8d1164c536086150f",
     "repositoryName": "Indflix"
   },
   {
@@ -4742,14 +4742,14 @@
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlay.cs3",
     "status": 1,
-    "version": 22,
+    "version": 26,
     "name": "XtronPlay",
     "internalName": "XtronPlay",
     "authors": [
       "Xtron"
     ],
     "description": "All-in-One Premium Stream Engine for Netflix, Prime Video, Hotstar, and Disney Studio Universes.",
-    "fileSize": 215173,
+    "fileSize": 182804,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -4758,20 +4758,20 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlay.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ddd7275c4bcef07bb61b8e37e3489ae569f72b0d412f010a34dab62033d1c227",
+    "fileHash": "sha256-bea7b7ae003e0f8c7fa22d83dc30c4baf3e9a34c8eb965650e1c576ccddfe481",
     "repositoryName": "Xtron Repo"
   },
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/XtronPlayMobile.cs3",
     "status": 1,
-    "version": 7,
+    "version": 18,
     "name": "XtronPlayMobile",
     "internalName": "XtronPlayMobile",
     "authors": [
       "Xtron"
     ],
     "description": "Premium Stream Engine (Mobile Version) for Netflix, Prime Video, Hotstar, and Disney Studio Universes.",
-    "fileSize": 181406,
+    "fileSize": 167684,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
@@ -4780,7 +4780,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronPlayM.png",
     "apiVersion": 1,
-    "fileHash": "sha256-ba5a60f772fde5047e7a425a3dd909dd445da2943810805fcbbeb4754e3e4123",
+    "fileHash": "sha256-b1cab7ea6aa863879927d7269ebc8eb5ff81525cf8074be6f0a1916e94654318",
     "repositoryName": "Xtron Repo"
   },
   {
