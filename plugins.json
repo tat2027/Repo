@@ -1012,7 +1012,7 @@
       "Phisher98"
     ],
     "description": "Bangla/Hindi Movies/Series",
-    "fileSize": 288347,
+    "fileSize": 288337,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "bn",
     "tvTypes": [
@@ -1022,7 +1022,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/cinefreak.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5ebc885c4fd765a2ffe423bd30eed743fab01aff287775a7e0e1b9912c83c036",
+    "fileHash": "sha256-e8a536330bfec2e71962aba08eb688300091fea368d799a6b2f50c5fc2eaaa07",
     "repositoryName": "Phisher Repo"
   },
   {
@@ -1464,16 +1464,16 @@
     "repositoryName": "CNC Repo (All Language)"
   },
   {
-    "url": "https://cs.eclipsia.dpdns.org/files/daa24c6835722c56/Eclipsia.cs3",
+    "url": "https://cs.eclipsia.dpdns.org/files/bded44e278f53fe3/Eclipsia.cs3",
     "status": 1,
-    "version": 13,
+    "version": 14,
     "name": "Eclipsia",
     "internalName": "Eclipsia",
     "authors": [
       "Eclipsia"
     ],
     "description": "Curated collection of Providers",
-    "fileSize": 1066723,
+    "fileSize": 1072881,
     "repositoryUrl": "https://gitea.com/eclipsia/cloudstream",
     "language": "en",
     "tvTypes": [
@@ -1482,7 +1482,7 @@
     ],
     "iconUrl": "https://cs3-server.orkestr.run/img/47cdacc9a3f2f869.png",
     "apiVersion": 1,
-    "fileHash": "sha256-daa24c6835722c560c941acc00d38aa66ab429c6ffce462d81265d12df0fdb03",
+    "fileHash": "sha256-bded44e278f53fe3208039f2e74c5893789512a9f8c7d717a6d386870170382f",
     "repositoryName": "Eclipsia"
   },
   {
@@ -2184,14 +2184,14 @@
   {
     "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/Kdesa.cs3",
     "status": 1,
-    "version": 11,
+    "version": 12,
     "name": "Kdesa",
     "internalName": "Kdesa",
     "authors": [
       "KSHITIJ8473"
     ],
     "description": "KDesa - Movies, TV Shows & Anime Multi-source,Multi-audio in hindi,english etc",
-    "fileSize": 87424,
+    "fileSize": 82980,
     "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
     "language": "en",
     "tvTypes": [
@@ -2201,7 +2201,7 @@
     ],
     "iconUrl": "https://kdesa.stream/android-chrome-192x192.png?v=6",
     "apiVersion": 1,
-    "fileHash": "sha256-42e75e9d438094c4002d3c21cfecc7cacdd598c3429c53a60580ed77a80e4d70",
+    "fileHash": "sha256-da4c0464ac46c6f34e0cd2208659ef014e602b3c5d9b0704f26281f3ec11cb7a",
     "repositoryName": "Raghav Repo"
   },
   {
@@ -2696,7 +2696,7 @@
   {
     "url": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/builds/MovieBoxWeb.cs3",
     "status": 1,
-    "version": 11,
+    "version": 15,
     "name": "MovieBoxWeb",
     "internalName": "MovieBoxWeb",
     "authors": [
@@ -2712,7 +2712,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/MovieBox.png",
     "apiVersion": 1,
-    "fileHash": "sha256-5f0d2b4ad76e25e73e35ed3dde7256e36ce568d0bb2ffcad90ba7537ec64c963",
+    "fileHash": "sha256-5b9aea016e0dcb471415eba28064c0335bef276e6f86aae58e3254c1677876fb",
     "repositoryName": "Xtron Repo"
   },
   {
@@ -4794,16 +4794,15 @@
       "parmod19"
     ],
     "description": "Ultimate hub for Indian Hindi Daily Soaps & Dramas",
-    "fileSize": 222458,
+    "fileSize": 222428,
     "repositoryUrl": "https://github.com/MrXtron/CloudStream-Extension",
     "language": "hi",
     "tvTypes": [
-      "Movie",
       "TvSeries"
     ],
     "iconUrl": "https://raw.githubusercontent.com/MrXtron/CloudStream-Extension/refs/heads/main/Files/Icons/XtronTV.png",
     "apiVersion": 1,
-    "fileHash": "sha256-399b66d2240e41d69b4856ab2b4e89fec3a7747f6c574638299f03b15473c679",
+    "fileHash": "sha256-271cec72382955ca970978cd0aed48b146c52a3a34ad0769745d39cb514777d9",
     "repositoryName": "Xtron Repo"
   },
   {
