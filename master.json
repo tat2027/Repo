@@ -1,6 +1,6 @@
 {
   "name": "Unified CloudStream Master Repository",
-  "description": "Auto-merged master repository with 200+ extensions (217 extensions from 11 repositories)",
+  "description": "Auto-merged master repository with 200+ extensions (218 extensions from 11 repositories)",
   "manifestVersion": 2,
   "iconUrl": "https://raw.githubusercontent.com/LagradOst/CloudStream-3/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
   "pluginLists": [
@@ -2199,7 +2199,7 @@
         "KSHITIJ8473"
       ],
       "description": "KDesa - Movies, TV Shows & Anime Multi-source,Multi-audio in hindi,english etc",
-      "fileSize": 82980,
+      "fileSize": 81702,
       "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
       "language": "en",
       "tvTypes": [
@@ -2209,7 +2209,7 @@
       ],
       "iconUrl": "https://kdesa.stream/android-chrome-192x192.png?v=6",
       "apiVersion": 1,
-      "fileHash": "sha256-da4c0464ac46c6f34e0cd2208659ef014e602b3c5d9b0704f26281f3ec11cb7a",
+      "fileHash": "sha256-cf0ecc9df56dc8aed74b5d168016c4b25f68691f6417a52b1f55423828d901b3",
       "repositoryName": "Raghav Repo"
     },
     {
@@ -2746,6 +2746,29 @@
       "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieLinkBDProvider.cs3",
       "name": "MovieLinkBDProvider",
       "repositoryName": "CNC Repo (All Language)"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieNestBD.cs3",
+      "status": 1,
+      "version": 1,
+      "name": "MovieNestBD",
+      "internalName": "MovieNestBD",
+      "authors": [
+        "Phisher98"
+      ],
+      "description": "Watch Movies & TV Series from MovieNestBD",
+      "fileSize": 191846,
+      "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+      "language": "bn",
+      "tvTypes": [
+        "Movie",
+        "TvSeries",
+        "Anime"
+      ],
+      "iconUrl": "https://www.google.com/s2/favicons?domain=movienestbd.best&sz=%size%",
+      "apiVersion": 1,
+      "fileHash": "sha256-1e03883a4bafb6852b3094e5ad7c985d76819146847b5b637d4d643849bd290e",
+      "repositoryName": "Phisher Repo"
     },
     {
       "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MoviePlusProvider/icon.png",
