@@ -3949,11 +3949,11 @@
     },
     {
       "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/SonyLIVProvider/logo.png",
-      "fileHash": "sha256-71b3b7960905b1b9ec0fb42df42efbc0849d8ef7160203699fdd3b1012b4a74f",
+      "fileHash": "sha256-210cac2137bb3fb5baab7996a764714253db342e956e6ccdd1898f0fc305b4ad",
       "apiVersion": 1,
       "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-      "fileSize": 41310,
-      "status": 3,
+      "fileSize": 55704,
+      "status": 1,
       "language": "en",
       "authors": [
         "NivinCNC"
@@ -3962,9 +3962,9 @@
         "Movie",
         "TvSeries"
       ],
-      "version": 1,
+      "version": 2,
       "internalName": "SonyLIVProvider",
-      "description": "SonyLIV movies & shows via the JioTV+ aggregation (POC VOD template)",
+      "description": "SonyLIV movies & shows via jio",
       "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SonyLIVProvider.cs3",
       "name": "SonyLIVProvider",
       "repositoryName": "CNC Repo (All Language)"
