@@ -2001,14 +2001,14 @@
   {
     "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
     "status": 1,
-    "version": 125,
+    "version": 126,
     "name": "IndStream",
     "internalName": "IndStream",
     "authors": [
       "Indflix"
     ],
     "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
-    "fileSize": 408641,
+    "fileSize": 408256,
     "repositoryUrl": "https://github.com/dipender98/Indflix",
     "language": "hi",
     "tvTypes": [
@@ -2018,7 +2018,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-e52a44ef560f1959c94ec9c5f1318674070c304722dcc410916b83a8dce38369",
+    "fileHash": "sha256-0fb45675230e68ce217ace93178485ed099a8e5e192e3bf72593b869ff7ebfee",
     "repositoryName": "Indflix"
   },
   {
@@ -2045,14 +2045,14 @@
   {
     "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IStreamFlare.cs3",
     "status": 1,
-    "version": 6,
+    "version": 7,
     "name": "IStreamFlare",
     "internalName": "IStreamFlare",
     "authors": [
       "Phisher98"
     ],
     "description": "Movies/Series/Anime",
-    "fileSize": 127052,
+    "fileSize": 226236,
     "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
     "language": "hi",
     "tvTypes": [
@@ -2065,7 +2065,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/streamflare.png",
     "apiVersion": 1,
-    "fileHash": "sha256-dd547b98c1a92c99dc24e84afd6e999774ad11fed89dae747a68357e629926f2",
+    "fileHash": "sha256-aadefc7795108fe6188bcd78fcb72f210841b7952e4d3f8eb4f4c05c5f1b0be2",
     "repositoryName": "Phisher Repo"
   },
   {
@@ -2943,7 +2943,7 @@
     ],
     "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Multimovies/icon.png",
     "apiVersion": 1,
-    "fileHash": "sha256-8bc2ac8091ba41ad97d55e485ef9ba125203d6d9721aab9cf3599a3a312691fe",
+    "fileHash": "sha256-aed489dff7632fcd12f76c84805611e0e80a1ce1ab52df88e41316835506f7ff",
     "repositoryName": "Indflix"
   },
   {
